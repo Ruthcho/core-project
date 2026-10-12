@@ -1,0 +1,17 @@
+## Build output
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Test results
+TestResults/
+
+## OS-generated files
+.DS_Store
+Thumbs.db
